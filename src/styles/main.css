@@ -3,7 +3,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #fc1e8a;
+    background-color: #1c583c;
     user-select: none;
 }
 
@@ -14,7 +14,7 @@ body{
     justify-content: center;
     align-items: center;
     gap: 30px;
-    background: linear-gradient(325deg, #03001e 0%, #7303c0 30%, #ec38bc 70%, #fdeff9 100%);
+    background: linear-gradient(325deg, #03001e 0%, #03c052 30%, #026b3f 70%, #022013 100%);
     padding: 40px 60px;
 }
 
@@ -38,7 +38,7 @@ h2{
 }
 
 .reset:focus{
-    color: #ec38bc;
+    color: #125017;
     background-color: #262809;
 }
 
